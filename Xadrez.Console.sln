@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xadrez.Console", "Xadrez.Console\Xadrez.Console.csproj", "{1CA733B6-4B8E-4423-9881-52F7A3F6B9B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xadrez_console", "Xadrez.Console\xadrez_console.csproj", "{1CA733B6-4B8E-4423-9881-52F7A3F6B9B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -14,6 +14,10 @@
             this.cor = cor;
             qteMovimentos = 0;
         }
+        public void incrementarQteMovimentos()
+        {
+            qteMovimentos++;
+        }
         public Peca(Tabuleiro tab, Cor cor)
         {
             this.tab = tab;
